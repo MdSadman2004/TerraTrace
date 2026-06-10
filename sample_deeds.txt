@@ -1,0 +1,15 @@
+--- RECORD ENTRY: 1962 ---
+GRANT OF ENTRY
+Grantor: Sterling Family Estates
+Grantee: Thomas Sterling
+Zoning: Agricultural.
+Boundary: Lot 7, Block B, Oakridge Subdivision.
+
+--- RECORD ENTRY: 1984 ---
+DEED OF SALE
+Grantor: Thomas Sterling
+Grantee: Oakridge Land Dev Corporation
+Price: $285,000
+Easements: Reserving a utilities easement on the eastern 10 feet for infrastructure.
+Covenants: Max residential building height restricted to 30 feet. No commercial activities permitted on lot.
+Boundary: Lot 7, Block B, Oakridge Subdivision.
