@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "b16221ab5591c4c9c2e89edeb659a2fb3262b624",
+  "source_tree": "a8678e174a1b03f3bd005a42689ed8f996e6bb10",
+  "source_repository": "https://github.com/MdSadman2004/TerraTrace",
+  "nodes": [
+    {
+      "label": "Deed workflow",
+      "path": "main.py",
+      "detail": "Structured-text extraction and adjacent-owner checks."
+    },
+    {
+      "label": "Typed report models",
+      "path": "models.py",
+      "detail": "Deeds, restrictions, verification, and zoning models."
+    },
+    {
+      "label": "Simulated retriever",
+      "path": "retriever.py",
+      "detail": "Cosine ranking over three hand-authored records."
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
